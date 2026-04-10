@@ -59,8 +59,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhayan0022&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhayan0022&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=subhayan0022&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhayan0022&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
 </p>
 
 ---
