@@ -57,15 +57,9 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=subhayan0022&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhayan0022&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-</p>
-
 ---
 
 ### 🔗 Connect
