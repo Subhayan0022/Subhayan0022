@@ -24,6 +24,8 @@
 - 📐 Reading system design case studies & engineering blogs (how real infra scales)
 - 📖 Studying open-source codebases to understand how production-grade systems are built
 
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
