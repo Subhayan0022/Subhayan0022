@@ -56,12 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhayan0022&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
----
-
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhayan-majumder-993487218/)
